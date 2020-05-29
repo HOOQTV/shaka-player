@@ -13,7 +13,7 @@
     "url": "https://github.com/jsdoc3/jsdoc"
   },
   "dependencies": {
-    "async": "~0.1.22",
+    "async": "~0.9.2",
     "catharsis": "~0.8.3",
     "escape-string-regexp": "~1.0.0",
     "esprima": "https://github.com/ariya/esprima/tarball/49a2eccb243f29bd653b11e9419241a9d726af7c",
